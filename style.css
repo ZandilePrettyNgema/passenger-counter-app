@@ -1,0 +1,14 @@
+body {
+  font-family: monospace;
+  text-align: center;
+  margin: 88px 0;
+}
+button {
+  background: rgb(55, 194, 55);
+  border: none;
+  padding: 10px 65px;
+  font-family: monospace;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 5px;
+}
